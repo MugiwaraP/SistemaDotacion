@@ -23,6 +23,7 @@ public class frmPanelEntradas extends javax.swing.JFrame {
         gorras();
         delantales();
         sucheros();
+        System.out.println("hola");
 
     }
 
