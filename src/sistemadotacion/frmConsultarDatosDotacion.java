@@ -873,7 +873,7 @@ tbConsultas.setModel(modelo);
                     rs.getString("talla"),
                     rs.getInt("cantidad"),
                     rs.getString("fecha_salida"),
-                    rs.getString("nombre_tipo_inventario")
+                    rs.getString("tipo_inventario_trabajador")
                 };
                 model.addRow(row);
             }
